@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="{{ site.theme }}">
+    <div id="wrapper">
+      {% include sidebar.html %}
+      <div id="content-wrapper">
+        <div class="container-fluid content-core">
+          {% include intro.html %}
+          <div class="row">
+            {% include experience.html %}
+            {% include education.html %}
+          </div>
+          <div class="row">
+            {% include skills.html %}
+            {% include languages.html %}
+          </div>
+          {% include projects.html %}
+          {% include hobbies.html %}
+        </div>
+      </div>
+    </div>
+  </body>
+
+</html>
