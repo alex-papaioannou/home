@@ -1,0 +1,30 @@
+.skills{
+  h4, h6 {
+    margin-bottom: 10px;
+  }
+  .skill {
+    margin-bottom: 30px;
+    margin-top: 10px;
+    .skill-level {
+      height: 3px;
+      .dot-position {
+        position: relative;
+        height: 3px;
+        .dot {
+          font-size: 16px;
+          position: absolute;
+          right: 0;
+          margin-top: -6px;
+          margin-left: 50%;
+          &:hover {
+            cursor: default;
+          }
+        }
+      }
+    }
+    .skill-description {
+      margin-top: 4px;
+    }
+
+  }
+}
