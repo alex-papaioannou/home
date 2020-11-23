@@ -25,7 +25,7 @@ abstract: > # Here you should write a brief summary about yourself.
   Currently my work focuses on corporate workflow transformation and optimization using Process Engineeringioannou@columbia.edu
 description: > # Description for site meta, used by search engines.
   Personal cover page for this test user.
-theme: theme-default-blue # Color theme for the site.
+theme: theme-twilight-blue # Color theme for the site.
 
 # Localization
 projects: Personal projects
