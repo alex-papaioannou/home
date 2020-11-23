@@ -11,11 +11,11 @@ email: a.papaioannou@columbia.edu # Your email
 
 # Use consideration when using these, publicly available contact information
 # and place of residence is not something you might want to have.
-tagline: Personal cover page for this test user. # Appears on the sidebar bellow your name.
+tagline: Personal cover page for Alex Papaioannou. # Appears on the sidebar bellow your name.
 address: 424 West 4th Street, 10022 New York, United States # Your address
 phone: 917-435-87 # Your phone number
 dob: 05.26.1992 # Your date of birth
-image: '/assets/images/AP_professional_photo.png'
+image: '/assets/images/AP_professional_photo_squared.jpg'
 title: Data Scientist # Your title eg. Writer, programmer, welder, etc.
 github_username:  apapaioannou92 # Your github username
 linkedin_url: https://www.linkedin.com/in/apapaio/ # Your linkedin public url
