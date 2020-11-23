@@ -15,7 +15,8 @@ tagline: Personal cover page for this test user. # Appears on the sidebar bellow
 address: 424 West 4th Street, 10022 New York, United States # Your address
 phone: 917-435-87 # Your phone number
 dob: 05.26.1992 # Your date of birth
-image: <img src='/assets/images/AP_professional_photo.png' width='350' height='32'>
+image: {% imagesize image:img %}
+<img src='/assets/images/AP_professional_photo.png' width='350' height='32'>
 title: Data Scientist # Your title eg. Writer, programmer, welder, etc.
 github_username:  apapaioannou92 # Your github username
 linkedin_url: https://www.linkedin.com/in/apapaio/ # Your linkedin public url
@@ -44,5 +45,8 @@ baseurl: ""
 # Build settings
 markdown: kramdown
 
+plugins:
+  - jekyll-image-size
+  
 sass:
     sass_dir: _sass
