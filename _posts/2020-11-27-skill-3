@@ -1,8 +1,11 @@
 ---
 category: "skill"
 name: Machine Learning
-level: 
+level: -
 value: 100%
 ---
 
-Regression (Linear, Logistic, Decision Trees, Random Forest Regressors, Ridge, Lasso, Elastic-net), Classification (KNN, Random Forest Classifiers, SVM), Clustering (K-Means, Fuzzy), Maximum Likelihood Estimation, Gradient Boosting techniques.
+Regression (Linear, Logistic, Decision Trees, Random Forest Regressors, Ridge, Lasso, Elastic-net), 
+Classification (KNN, Random Forest Classifiers, SVM), 
+Clustering (K-Means, Fuzzy), Maximum Likelihood Estimation, 
+Gradient Boosting techniques.
