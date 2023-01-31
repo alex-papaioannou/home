@@ -17,18 +17,31 @@ phone: 917-435-8702 # Your phone number
 dob: 05.26.1992 # Your date of birth
 image: '/assets/images/AP_professional_photo_squared.jpg'
 title: Data Scientist # Your title eg. Writer, programmer, welder, etc.
-github_username:  apapaioannou92 # Your github username
+github_username:  alex-papaioannou # Your github username
 linkedin_url: https://www.linkedin.com/in/apapaio/ # Your linkedin public url
 twitter_handle: alexpap2018 # Your twitter handle
 
 abstract: > # Here you should write a brief summary about yourself.
-  Currently my work focuses on corporate workflow transformation and optimization using Process Engineering, Project/Program Management and Lean/Six Sigma/Agile Management principles. 
+#  Currently my work focuses on corporate workflow transformation and optimization using Process Engineering, Project/Program Management and Lean/Six Sigma/Agile Management principles. 
   
-  On the side, I am working as a freelancer on Data Science models that aim to enhance the efficiency of corporations and give them insights in order to formulate better decision making strategies.
+#  On the side, I am working as a freelancer on Data Science models that aim to enhance the efficiency of corporations and give them insights in order to formulate better decision making strategies.
   
-  Currently, I am happy to work as an internal Consultant, and Program Manager for Nomura Securities.
+#  Currently, I am happy to work as an internal Consultant, and Program Manager for Nomura Securities.
   
-  Regarding my education, I am a graduate of the program M.S. candidate in Management Science & Engineering of Columbia’s  Business School and Engineering School (2019). Lastly, I hold as well a MEng in Civil and Environmental Engineering (2017). 
+#  Regarding my education, I am a graduate of the program M.S. candidate in Management Science & Engineering of Columbia’s  Business School and Engineering School (2019). Lastly, I hold as well a MEng in Civil and Environmental Engineering (2017). 
+
+At Goldman Sachs I have been developing automated data pipelines and production scripts, leveraging software engineering and data science principles, in order to accomplish risk mitigation, make trading systems more efficient, and reduce the need of manual human intervention during the trade life cycle. 
+
+I hold a M.S. Operations Research from Columbia University (2019) and a B.S. in Applied & Pure Math from Indiana University.
+
+If you need any further information, please feel free to contact me by email at a.papaioannou@columbia.edu
+
+core characteristics:
+-meticulous and detail/exception oriented
+-professional experience in 2 fast paced IBs+fintech startup
+-hands-on experience in finance (both front office and middle office functions), project management, data science, DevOps, systems, machine learning, time series analysis, PROD automation using Python, Gitlab, AWS, Kafka, Spark, Docker, Kubernetes, SQL
+-bachelors and masters degrees in math and engineering and 4+ years of research in engineering and financial mathematics
+-professionally mature, adaptable and able to change priorities quickly and work on multiple projects concurrently when roadblocks/dependencies come up
 
 description: > # Description for site meta, used by search engines.
   #Personal cover page for this test user.
