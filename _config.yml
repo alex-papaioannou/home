@@ -45,7 +45,7 @@ core characteristics:
 
 description: > # Description for site meta, used by search engines.
   #Personal cover page for this test user.
-theme: theme-default-blue # Color theme for the site.
+remote_theme: theme-default-blue # Color theme for the site.
 
 # Localization
 projects: Personal projects
