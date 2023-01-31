@@ -45,7 +45,7 @@ abstract: > # Here you should write a brief summary about yourself.
 
 description: > # Description for site meta, used by search engines.
   #Personal cover page for this test user.
-remote_theme: theme-default-blue # Color theme for the site.
+theme: theme-default-blue # Color theme for the site.
 
 # Localization
 projects: Personal projects
