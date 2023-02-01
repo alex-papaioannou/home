@@ -45,7 +45,9 @@ abstract: > # Here you should write a brief summary about yourself.
 
 description: > # Description for site meta, used by search engines.
   #Personal cover page for this test user.
-theme: theme-default-blue # Color theme for the site.
+theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9.0.4
+# remote_theme: theme-default-blue # Color theme for the site.
 
 # Localization
 projects: Personal projects
