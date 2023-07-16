@@ -49,7 +49,7 @@ description: > # Description for site meta, used by search engines.
 # remote_theme: theme-default-blue # Color theme for the site.
 plugins:
   - jekyll-remote-theme
-remote_theme: ngzhio/jekyll-theme-hamilton
+remote_theme: theme-default-blue #ngzhio/jekyll-theme-hamilton
 # Localization
 projects: Personal projects
 skills: Skills
