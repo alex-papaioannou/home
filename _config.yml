@@ -5,6 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+baseurl: /
+url: https://alex-papaioannou.github.io
+
 # Site settings
 name: Alex Papaioannou # Your name.
 email: a.papaioannou@columbia.edu # Your email
@@ -62,8 +65,6 @@ phone_text: Phone
 dob_text: Date of birth
 address_text: Address
 
-baseurl: /PROJECT
-url: http://alex-papaioannou.github.io
 # <link rel="stylesheet" href="{{ "css/main.css, " | prepend: site.baseurl }}">
 # <link rel="stylesheet" href="{{ site.baseurl }}home/css/main.css">
 <link rel="stylesheet" href="/css/main.css">
