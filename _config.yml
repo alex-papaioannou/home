@@ -49,7 +49,7 @@ description: > # Description for site meta, used by search engines.
 # remote_theme: theme-default-blue # Color theme for the site.
 plugins:
   - jekyll-remote-theme
-remote_theme: #theme-default-blue #ngzhio/jekyll-theme-hamilton
+remote_theme: theme-default-blue #ngzhio/jekyll-theme-hamilton
 # Localization
 projects: Personal projects
 skills: Skills
@@ -68,6 +68,7 @@ baseurl: ""
 # <script src="{{ site.baseurl }}/js/scripts.js"></script>
 # <img src="{{ site.baseurl }}/path/to/img/toto.jpg">
 # <a href="{{ site.baseurl }}/linkto/">Link</a>
+
 # Build settings
 markdown: kramdown
 
