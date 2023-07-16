@@ -62,7 +62,8 @@ phone_text: Phone
 dob_text: Date of birth
 address_text: Address
 
-baseurl: ""
+baseurl: /PROJECT
+url: http://alex-papaioannou.github.io
 # <link rel="stylesheet" href="{{ "css/main.css, " | prepend: site.baseurl }}">
 # <link rel="stylesheet" href="{{ site.baseurl }}home/css/main.css">
 <link rel="stylesheet" href="/css/main.css">
