@@ -45,11 +45,11 @@ abstract: > # Here you should write a brief summary about yourself.
 
 description: > # Description for site meta, used by search engines.
   #Personal cover page for this test user.
-theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack
 # remote_theme: theme-default-blue # Color theme for the site.
 plugins:
   - jekyll-remote-theme
-# remote_theme: #theme-default-blue #ngzhio/jekyll-theme-hamilton
+remote_theme: #theme-default-blue #ngzhio/jekyll-theme-hamilton
 # Localization
 projects: Personal projects
 skills: Skills
