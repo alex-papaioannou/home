@@ -8,6 +8,7 @@
 # baseurl: /
 # root: /
 url: https://alex-papaioannou.github.io
+# permalink: "/blog/:title/"
 
 # Site settings
 name: Alex Papaioannou # Your name.
@@ -19,7 +20,7 @@ tagline: Personal cover page for job description, skills, personal projects, edu
 address: 424 West 47th Street, 10036 New York, United States # Your address
 phone: 917-435-8702 # Your phone number
 dob: 05.26.1992 # Your date of birth
-image: 'home/assets/images/AP_professional_photo_squared.jpg'
+image: 'https://alex-papaioannou.github.io/home/assets/images/AP_professional_photo_squared.jpg'
 title: Data Scientist # Your title eg. Writer, programmer, welder, etc.
 github_username:  alex-papaioannou # Your github username
 linkedin_url: https://www.linkedin.com/in/apapaio/ # Your linkedin public url
