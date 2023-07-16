@@ -63,6 +63,7 @@ dob_text: Date of birth
 address_text: Address
 
 baseurl: ""
+<link rel="stylesheet" href="{{ "css/main.css, " | prepend: site.baseurl }}">
 
 # Build settings
 markdown: kramdown
