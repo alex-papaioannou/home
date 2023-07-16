@@ -63,8 +63,8 @@ dob_text: Date of birth
 address_text: Address
 
 # baseurl: ""
-# <link rel="stylesheet" href="{{ "css/main.css, " | prepend: site.baseurl }}">
-# <link rel="stylesheet" href="{{ site.baseurl }}/css/css.css">
+<link rel="stylesheet" href="{{ "css/main.css, " | prepend: site.baseurl }}">
+<link rel="stylesheet" href="{{ site.baseurl }}home/css/main.css">
 # <script src="{{ site.baseurl }}/js/scripts.js"></script>
 # <img src="{{ site.baseurl }}/path/to/img/toto.jpg">
 # <a href="{{ site.baseurl }}/linkto/">Link</a>
