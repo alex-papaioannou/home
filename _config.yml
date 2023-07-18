@@ -56,7 +56,8 @@ description: > # Description for site meta, used by search engines.
 # remote_theme: theme-default-blue # Color theme for the site.
 plugins:
   - jekyll-remote-theme
-remote_theme: theme-default-blue #ngzhio/jekyll-theme-hamilton
+theme: theme-default-blue # Color theme for the site.
+# remote_theme: theme-default-blue #ngzhio/jekyll-theme-hamilton
 # Localization
 projects: Personal projects
 skills: Skills
@@ -69,7 +70,7 @@ phone_text: Phone
 dob_text: Date of birth
 address_text: Address
 
-<link rel="stylesheet" href="{{ "css/main.css, " | prepend: site.baseurl }}">
+# <link rel="stylesheet" href="{{ "css/main.css, " | prepend: site.baseurl }}">
 
 # <link rel="stylesheet" href="{{ site.baseurl }}home/css/main.css">
 # <link rel="stylesheet" href="/css/main.css">
