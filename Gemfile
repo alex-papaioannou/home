@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll-remote-theme'
 gem 'faraday-retry'
+gem 'theme-default-blue'
 
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
