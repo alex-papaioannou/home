@@ -82,12 +82,12 @@ markdown: kramdown
 plugins:
   - jekyll-image-size
   
-# sass:
-#     sass_dir: _sass
 sass:
-    load_paths:
-        - home/_sass
-        - home/css
+    sass_dir: _sass
+# sass:
+#     load_paths:
+#         - home/_sass
+#         - home/css
 # Welcome to Jekyll!
 
 # This config file is meant for settings that affect your whole blog, values
