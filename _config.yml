@@ -56,7 +56,7 @@ description: > # Description for site meta, used by search engines.
 # remote_theme: theme-default-blue # Color theme for the site.
 # plugins:
 #   - jekyll-remote-theme
-theme: theme-default-blue # Color theme for the site.
+theme: _sass/theme-default-blue # Color theme for the site.
 # remote_theme: theme-default-blue #ngzhio/jekyll-theme-hamilton
 # Localization
 projects: Personal projects
