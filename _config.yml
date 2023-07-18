@@ -5,8 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-baseurl: https://alex-papaioannou.github.io
-root: home/
+baseurl: https://alex-papaioannou.github.io/home
+# root: home/
 # permalink: "/blog/:title/"
 
 # Site settings
