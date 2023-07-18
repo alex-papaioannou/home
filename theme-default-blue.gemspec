@@ -3,7 +3,7 @@
 
 Gem::Specification.new do |s|
   s.name          = "jekyll-theme-default-blue"
-  s.version       = "0.2.0"
+  s.version       = "1.0.0"
   s.license       = "CC0-1.0"
   s.authors       = ["Alex Papaioannou", ""]
   s.email         = ["opensource+jekyll-theme-default-blue@github.com"]
