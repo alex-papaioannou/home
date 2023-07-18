@@ -8,6 +8,8 @@
 # baseurl: https://alex-papaioannou.github.io/home
 # baseurl: "/home"
 # root: home/
+baseurl: ""
+url: ""
 # permalink: "/blog/:title/"
 
 # Site settings
