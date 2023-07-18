@@ -6,7 +6,6 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 baseurl: "https://alex-papaioannou.github.io"
-# baseurl: "/home"
 # root: home/
 # url: ""
 # permalink: "/blog/:title/"
