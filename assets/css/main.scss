@@ -1,7 +1,10 @@
 // @import "/github/workspace/_sass/timeline";
 // @import "/github/workspace/_sass/skills";
 // @import "/github/workspace/_sass/themes";
+---
+---
 
+@import "{{ site.theme }}";
 @import "timeline";
 @import "skills";
 @import "themes";
