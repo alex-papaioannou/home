@@ -80,7 +80,7 @@ markdown: kramdown
 
 plugins:
   - jekyll-image-size
-  #   - jekyll-remote-theme
+  - jekyll-remote-theme
 
 sass:
     sass_dir: _sass
