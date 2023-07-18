@@ -69,7 +69,7 @@ phone_text: Phone
 dob_text: Date of birth
 address_text: Address
 
-#<link rel="stylesheet" href="{{ "home/css/main.css, " | prepend: site.baseurl }}">
+<link rel="stylesheet" href="{{ "css/main.css, " | prepend: site.baseurl }}">
 
 # <link rel="stylesheet" href="{{ site.baseurl }}home/css/main.css">
 # <link rel="stylesheet" href="/css/main.css">
