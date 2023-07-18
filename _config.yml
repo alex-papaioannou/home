@@ -7,7 +7,7 @@
 
 # baseurl: /
 # root: /
-url: https://alex-papaioannou.github.io/home
+url: https://alex-papaioannou.github.io
 # permalink: "/blog/:title/"
 
 # Site settings
@@ -20,7 +20,7 @@ tagline: Personal cover page for job description, skills, personal projects, edu
 address: 424 West 47th Street, 10036 New York, United States # Your address
 phone: 917-435-8702 # Your phone number
 dob: 05.26.1992 # Your date of birth
-image: <img src="assets/images/AP_professional_photo_squared.jpg" class="img-responsive" alt="">
+image: <img src="home/assets/images/AP_professional_photo_squared.jpg" class="img-responsive" alt="">
 
 title: Data Scientist # Your title eg. Writer, programmer, welder, etc.
 github_username:  alex-papaioannou # Your github username
@@ -68,7 +68,7 @@ phone_text: Phone
 dob_text: Date of birth
 address_text: Address
 
-<link rel="stylesheet" href="{{ "css/main.css, " | prepend: site.baseurl }}">
+<link rel="stylesheet" href="{{ "home/css/main.css, " | prepend: site.baseurl }}">
 # <link rel="stylesheet" href="{{ site.baseurl }}home/css/main.css">
 # <link rel="stylesheet" href="/css/main.css">
 # <script src="{{ site.baseurl }}/js/scripts.js"></script>
