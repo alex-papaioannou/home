@@ -54,7 +54,7 @@ description: > # Description for site meta, used by search engines.
   #Personal cover page for this test user.
 # theme: jekyll-theme-hydejack
 # remote_theme: theme-default-blue # Color theme for the site.
-theme: minima #theme-default-blue # Color theme for the site.
+theme: theme-default-blue # Color theme for the site.
 # remote_theme: theme-default-blue #ngzhio/jekyll-theme-hamilton
 # Localization
 projects: Personal projects
@@ -85,12 +85,6 @@ plugins:
 
 sass:
     sass_dir: _sass
-# sass:
-#     load_paths:
-#         - home/_sass
-#         - home/css
-
-
 
 # abstract: > # Here you should write a brief summary about yourself.
 #   Currently my work focuses on corporate workflow transformation and optimization using Process Engineering, Project/Program Management and Lean/Six Sigma/Agile Management principles. 
