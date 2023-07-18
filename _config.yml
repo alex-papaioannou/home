@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 baseurl: https://alex-papaioannou.github.io
-root: home
+root: home/
 # permalink: "/blog/:title/"
 
 # Site settings
@@ -19,7 +19,7 @@ tagline: Personal cover page for job description, skills, personal projects, edu
 address: 424 West 47th Street, 10036 New York, United States # Your address
 phone: 917-435-8702 # Your phone number
 dob: 05.26.1992 # Your date of birth
-image: assets/images/AP_professional_photo_squared.jpg
+image: home/assets/images/AP_professional_photo_squared.jpg
 
 title: Data Scientist # Your title eg. Writer, programmer, welder, etc.
 github_username:  alex-papaioannou # Your github username
@@ -67,7 +67,8 @@ phone_text: Phone
 dob_text: Date of birth
 address_text: Address
 
-<link rel="stylesheet" href="{{ "home/css/main.css, " | prepend: site.baseurl }}">
+#<link rel="stylesheet" href="{{ "home/css/main.css, " | prepend: site.baseurl }}">
+
 # <link rel="stylesheet" href="{{ site.baseurl }}home/css/main.css">
 # <link rel="stylesheet" href="/css/main.css">
 # <script src="{{ site.baseurl }}/js/scripts.js"></script>
@@ -84,8 +85,8 @@ plugins:
 #     sass_dir: _sass
 sass:
     load_paths:
-        - _sass
-        - css
+        - home/_sass
+        - home/css
 # Welcome to Jekyll!
 
 # This config file is meant for settings that affect your whole blog, values
