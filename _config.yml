@@ -90,28 +90,8 @@ sass:
 #     load_paths:
 #         - home/_sass
 #         - home/css
-# Welcome to Jekyll!
 
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
 
-# # Site settings
-# name: Alex Papaioannou # Your name.
-# email: a.papaioannou@columbia.edu # Your email
-
-# # Use consideration when using these, publicly available contact information
-# # and place of residence is not something you might want to have.
-# tagline: Personal cover page for job description, skills, personal projects, education etc. # Appears on the sidebar bellow your name.
-# address: 424 West 47th Street, 10036 New York, United States # Your address
-# phone: 917-435-8702 # Your phone number
-# dob: 05.26.1992 # Your date of birth
-# image: '/assets/images/AP_professional_photo_squared.jpg'
-# title: Data Scientist # Your title eg. Writer, programmer, welder, etc.
-# github_username:  apapaioannou92 # Your github username
-# linkedin_url: https://www.linkedin.com/in/apapaio/ # Your linkedin public url
-# twitter_handle: alexpap2018 # Your twitter handle
 
 # abstract: > # Here you should write a brief summary about yourself.
 #   Currently my work focuses on corporate workflow transformation and optimization using Process Engineering, Project/Program Management and Lean/Six Sigma/Agile Management principles. 
