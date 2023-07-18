@@ -54,8 +54,8 @@ description: > # Description for site meta, used by search engines.
   #Personal cover page for this test user.
 # theme: jekyll-theme-hydejack
 # remote_theme: theme-default-blue # Color theme for the site.
-theme: theme-default-blue # Color theme for the site.
-# remote_theme: theme-default-blue #ngzhio/jekyll-theme-hamilton
+# theme: theme-default-blue # Color theme for the site.
+remote_theme: theme-default-blue #ngzhio/jekyll-theme-hamilton
 # Localization
 projects: Personal projects
 skills: Skills
