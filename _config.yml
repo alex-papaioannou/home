@@ -84,6 +84,7 @@ plugins:
 
 sass:
     sass_dir: _sass
+    sass_dir: assets/css
 
 # abstract: > # Here you should write a brief summary about yourself.
 #   Currently my work focuses on corporate workflow transformation and optimization using Process Engineering, Project/Program Management and Lean/Six Sigma/Agile Management principles. 
