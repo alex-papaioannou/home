@@ -17,7 +17,7 @@ phone: 917-435-8702 # Your phone number
 dob: 05.26.1992 # Your date of birth
 image: '/assets/images/AP_professional_photo_squared.jpg'
 title: Data Scientist # Your title eg. Writer, programmer, welder, etc.
-github_username:  apapaioannou92 # Your github username
+github_username:  alex-papaioannou # Your github username
 linkedin_url: https://www.linkedin.com/in/apapaio/ # Your linkedin public url
 twitter_handle: alexpap2018 # Your twitter handle
 
@@ -32,7 +32,7 @@ abstract: > # Here you should write a brief summary about yourself.
 
 description: > # Description for site meta, used by search engines.
   #Personal cover page for this test user.
-theme: theme-default-blue # Color theme for the site.
+remote-theme: theme-default-blue # Color theme for the site.
 
 # Localization
 projects: Personal projects
